@@ -66,7 +66,7 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #D7DBDD;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -259,7 +259,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#resume .main-col { padding-right: 3%; }
 
 .education, .work {
    margin-bottom: 48px;
@@ -297,9 +297,9 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li {
    position: relative;
-  	margin-bottom: 60px;
+  	margin-bottom: 80px;
   	background: #ccc;
-  	height: 42px;
+  	height: 35px;
   	border-radius: 3px;
 }
 .bars li em {
@@ -309,7 +309,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+	top: -60px;
 }
 .bar-expand {
    position: absolute;
@@ -320,90 +320,90 @@ ul#nav li.current a { color: #F06000; }
    padding-right: 24px;
   	background: #313131;
    display: inline-block;
-  	height: 42px;
-   line-height: 42px;
+  	height: 35px;
+   line-height: 35px;
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.python {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.java {
+  	width: 65%;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.r {
+  	width: 70%;
+  	-moz-animation: r 2s ease;
+  	-webkit-animation: r 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.sql {
+  	width: 30%;
+  	-moz-animation: sql 2s ease;
+  	-webkit-animation: sql 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.html {
+  	width: 30%;
+  	-moz-animation: html 2s ease;
+  	-webkit-animation: html 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.tableau {
+  	width: 20%;
+  	-moz-animation: tableau 2s ease;
+  	-webkit-animation: tableau 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes python {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes java {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 65%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes r {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 30%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes html {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 30%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes tableau {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 20%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes python {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes java {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 65%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes r {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 30%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes html {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 30%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes tableau {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 20%;  }
 }
 
 /* ------------------------------------------------------------------ */
