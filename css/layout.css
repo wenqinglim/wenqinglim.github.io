@@ -299,7 +299,7 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
   	margin-bottom: 80px;
   	background: #ccc;
-  	height: 35px;
+  	height: 25px;
   	border-radius: 3px;
 }
 .bars li em {
@@ -320,8 +320,8 @@ ul#nav li.current a { color: #F06000; }
    padding-right: 24px;
   	background: #313131;
    display: inline-block;
-  	height: 35px;
-   line-height: 35px;
+  	height: 25px;
+   line-height: 25px;
    border-radius: 3px 0 0 3px;
 }
 
@@ -340,6 +340,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: r 2s ease;
   	-webkit-animation: r 2s ease;
 }
+.sas {
+  	width: 20%;
+  	-moz-animation: sas 2s ease;
+  	-webkit-animation: sas 2s ease;
+}
 .sql {
   	width: 30%;
   	-moz-animation: sql 2s ease;
@@ -351,9 +356,44 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html 2s ease;
 }
 .tableau {
-  	width: 20%;
+  	width: 30%;
   	-moz-animation: tableau 2s ease;
   	-webkit-animation: tableau 2s ease;
+}
+.cartodb {
+  	width: 20%;
+  	-moz-animation: cartodb 2s ease;
+  	-webkit-animation: cartodb 2s ease;
+}
+.englishw {
+  	width: 100%;
+  	-moz-animation: english 2s ease;
+  	-webkit-animation: english 2s ease;
+}
+.englishs {
+  	width: 100%;
+  	-moz-animation: english 2s ease;
+  	-webkit-animation: english 2s ease;
+}
+.chinesew {
+  	width: 85%;
+  	-moz-animation: chinese 2s ease;
+  	-webkit-animation: chinese 2s ease;
+}
+.chineses {
+  	width: 85%;
+  	-moz-animation: chinese 2s ease;
+  	-webkit-animation: chinese 2s ease;
+}
+.writing {
+  	width: 90%;
+  	-moz-animation: writing 2s ease;
+  	-webkit-animation: writing 2s ease;
+}
+.bizcom {
+  	width: 80%;
+  	-moz-animation: bizcom 2s ease;
+  	-webkit-animation: bizcom 2s ease;
 }
 
 @-moz-keyframes python {
@@ -368,6 +408,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
+@-moz-keyframes sas {
+  0%   { width: 0px;  }
+  100% { width: 20%;  }
+}
 @-moz-keyframes sql {
   0%   { width: 0px;  }
   100% { width: 30%;  }
@@ -378,7 +422,27 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes tableau {
   0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-moz-keyframes cartodb {
+  0%   { width: 0px;  }
   100% { width: 20%;  }
+}
+@-moz-keyframes english {
+  0%   { width: 0px;  }
+  100% { width: 100%;  }
+}
+@-moz-keyframes chinese {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes writing {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes bizcom {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
 }
 
 @-webkit-keyframes python {
@@ -393,6 +457,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
+@-webkit-keyframes sas {
+  0%   { width: 0px;  }
+  100% { width: 20%;  }
+}
 @-webkit-keyframes sql {
   0%   { width: 0px;  }
   100% { width: 30%;  }
@@ -403,7 +471,27 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes tableau {
   0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-webkit-keyframes cartodb {
+  0%   { width: 0px;  }
   100% { width: 20%;  }
+}
+@-webkit-keyframes english {
+  0%   { width: 0px;  }
+  100% { width: 100%;  }
+}
+@-webkit-keyframes chinese {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes writing {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes bizcom {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
 }
 
 /* ------------------------------------------------------------------ */
