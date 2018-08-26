@@ -326,17 +326,17 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .python {
-  	width: 60%;
+  	width: 70%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 .java {
-  	width: 65%;
+  	width: 50%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
 .r {
-  	width: 70%;
+  	width: 75%;
   	-moz-animation: r 2s ease;
   	-webkit-animation: r 2s ease;
 }
@@ -346,22 +346,22 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: sas 2s ease;
 }
 .sql {
-  	width: 30%;
+  	width: 35%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
 .html {
-  	width: 30%;
+  	width: 45%;
   	-moz-animation: html 2s ease;
   	-webkit-animation: html 2s ease;
 }
 .tableau {
-  	width: 30%;
+  	width: 60%;
   	-moz-animation: tableau 2s ease;
   	-webkit-animation: tableau 2s ease;
 }
 .cartodb {
-  	width: 20%;
+  	width: 30%;
   	-moz-animation: cartodb 2s ease;
   	-webkit-animation: cartodb 2s ease;
 }
