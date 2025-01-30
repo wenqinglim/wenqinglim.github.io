@@ -1,5 +1,6 @@
 ---
 title: About Me
+aside: true
 ---
 There are 2 types of people: those who hear music and think about dancing, and those who think about the mathematical patterns behind it. Needless to say, I couldn't care less about dancing. 
 

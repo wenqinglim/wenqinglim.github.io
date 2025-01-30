@@ -23,14 +23,26 @@ plugins:
 # Site settings
 url: 'https://wenqinglim.github.io'
 baseurl: ''
-title: "Wen Qing's Site"
-description: 'This is my new website'
+title: "Wen Qing Lim"
+description: '🤓'
 permalink: pretty
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
+twitter:
+  username: omgitsqing # jekyll-seo-tag > Owners twitter username
+author: WenQingLim # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Wen Qing Lim # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/omgitsqing
+    - https://www.linkedin.com/in/wen-qing-l-67330771/
+    - https://github.com/wenqinglim
+    - https://codingintune.substack.com/
+    - https://medium.com/@limwenqing
+
 
 # Header nav
 navigation_header:
@@ -45,6 +57,13 @@ navigation_header:
 navigation_footer:
   - title: Back to top
     url: "#top"
+
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/omgitsqing
+  LinkedIn: https://www.linkedin.com/in/wen-qing-l-67330771/
+  GitHub: https://github.com/wenqinglim
+  link: https://codingintune.substack.com/
 
 # Collections
 # collections:

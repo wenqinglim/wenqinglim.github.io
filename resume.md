@@ -1,5 +1,6 @@
 ---
 title: Resume
+aside: true
 ---
 ------------------------------
 ### Skills
