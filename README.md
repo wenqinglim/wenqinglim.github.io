@@ -1,9 +1,14 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+# Wen Qing's personal site
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
+Serving at: https://wenqinglim.github.io/
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
+A simple site created using the Jekyll theme [Alembic](https://alembic.darn.es/).
 
-or
 
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+## Dev set up
+### Pre-requisites
+1. Install Jekyll ([macOS](https://jekyllrb.com/docs/installation/macos/))
+2. Install Alembic remote theme: `bundle install`
+
+### Build and serve
+`bundle exec jekyll serve`
