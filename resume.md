@@ -28,6 +28,10 @@ Tech stack: Python, PySpark, AWS Sagemaker, SentenceTransformers, PyTorch, LangC
     - Developed explainable solutions for rule generation
     - Optimised entity matching models using clustering techniques
     - Reduced PySpark processing runtime by 70% through optimisation
+- Lead client projects:
+    - Build client-specific ETL pipeline to transform and extract data from raw text data
+    - Create scoring system for identifying and evaluating common name tokens
+    - Create Chinese character visual similarity model
 
 **Data Scientist @Twitter, Singapore** \| May 2022 - Jan 2023
 
@@ -81,7 +85,7 @@ Bachelor of Science in Business Analytics (Second Upper Honours) • NUS Oversea
 
 **MSc Thesis: Hierarchical Symbolic Music Generation \| 2024**
 
-- Developed novel graph neural network architecture for long-form music generation ([ArXiv paper](https://arxiv.org/abs/2409.08155))
+- Developed novel graph neural network architecture for long-form music generation (Paper published in [Proceedings of the 17th International Symposium on Computer Music Multidisciplinary Research, 985–996.](https://zenodo.org/records/17488858))
 - Implemented 2-stage CNN/GCN Variational Auto-Encoder (VAE) system to capture both local and global musical structures
 - Trained model on POP909 dataset to generate coherent musical compositions with structured sections
 
@@ -103,6 +107,9 @@ Bachelor of Science in Business Analytics (Second Upper Honours) • NUS Oversea
 - Implemented mood/genre classification, with conditional music generation system responding to text and audio prompts
 
 ### AI & Machine Learning Applications
+
+**Octavate \| 2025-Present**
+- Lead Data Scientist: Lead a team of ML Researchers on an end-to-end project to predict breakout artists using quantitative and qualitative signals.
 
 **AI Summit London Hackathon \| 2024**
 
