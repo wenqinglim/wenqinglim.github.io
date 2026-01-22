@@ -12,6 +12,7 @@ feature_text: |
 
 
 - ✍🏻 I write for fun about:
-  - [Music x Computing](https://codingintune.substack.com/about)
-  - [Mini book reviews](https://www.instagram.com/omgshereadsbooks/)
-  - [Data Science (old)](https://medium.com/@limwenqing)
+  - [🎵💻 Music x Computing](https://codingintune.substack.com/about)
+  - [🗺 Travel Adventures](https://sillyfolksadventures.substack.com/about)
+  - [📚 Mini book reviews](https://www.instagram.com/omgshereadsbooks/)
+  - [👩🏻‍💻 Data Science (old)](https://medium.com/@limwenqing)
