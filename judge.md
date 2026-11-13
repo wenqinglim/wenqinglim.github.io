@@ -11,7 +11,12 @@ excerpt: "Resources from my talk on what breaks when the thing checking your AI 
 ## 📖 Read more
 
 - [How we supervise AI agents at Personio](https://medium.com/data-systems-internal-ai-personio/how-we-supervise-ai-agents-at-personio-1ec1fec4ac29): our first post on the Personio tech blog.
-- 🚧 **Coming soon:** a deep dive on online evals, following up on this talk. Follow the [Personio tech blog](https://medium.com/data-systems-internal-ai-personio) to catch it when it's out.
+- 🚧 **Coming soon:** more deep dives are planned on the Personio tech blog, including:
+  - how our AI platform is structured, and the trade-offs we've made building it
+  - which measures are actually worth tracking
+  - a closer look at how we run online and offline evaluations for one of our products
+
+  Follow the [Personio tech blog](https://medium.com/data-systems-internal-ai-personio) to catch them when they're out.
 
 ## 🧪 Eval resources I used to get started
 
