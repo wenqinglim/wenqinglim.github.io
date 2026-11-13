@@ -30,4 +30,4 @@ excerpt: "Resources from my talk on what breaks when the thing checking your AI 
 - ✍🏻 [Coding in Tune](https://codingintune.substack.com/), my Substack: music, machine learning, and the ideas in between
 - 💼 [LinkedIn](https://www.linkedin.com/in/wen-qing-l-67330771/)
 - 👩🏻‍💻 [GitHub](https://github.com/wenqinglim)
-- 🏠 [More about me](/about/)
+- 🏠 [More about me](https://wenqinglim.github.io/about/)
