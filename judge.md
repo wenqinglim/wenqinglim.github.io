@@ -8,6 +8,8 @@ excerpt: "Resources from my talk on what breaks when the thing checking your AI 
 
 *Who Judges the Judge? What breaks when the thing checking your agent is also an AI* is the story of how our team built online evals for a customer-facing AI assistant, and what we learnt when it came to trusting the LLM judge itself.
 
+📑 **Slides:** coming soon, shortly after the talk.
+
 ## 📖 Read more
 
 - [How we supervise AI agents at Personio](https://medium.com/data-systems-internal-ai-personio/how-we-supervise-ai-agents-at-personio-1ec1fec4ac29): our first post on the Personio tech blog.
