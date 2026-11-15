@@ -2,12 +2,23 @@
 title: About Me
 aside: true
 ---
-There are 2 types of people: those who hear music and think about dancing, and those who think about the mathematical patterns behind it. Needless to say, I couldn't care less about dancing. 
+I'm Wen Qing, a machine learning engineer based in London with 7+ years of experience building ML systems across HR Tech, FinTech, AdTech, and food delivery.
+I like building solutions that are not merely technically sophisticated, but also reliable, transparent, and meaningful to the people who use them.
 
-I'm fascinated by how music, mathematics, and machine learning intersect. I enjoy exploring how we can teach machines to understand the mathematical patterns in music, and how we can use technology to understand, create, and transform musical experiences. I believe in building solutions that are not merely technically sophisticated, but also transparent and meaningful to the people who use them.
+## What I do
 
-With over 6 years of experience working on machine learning projects across various industries, I've picked up knowledge of software engineering practices, end-to-end ML in Python, working with databases, making sense of unstructured text data, and fine-tuning LLMs. I've built practical solutions that have saved thousands of manual work hours across Health Tech, Quick Commerce, Social Media, and Reg Tech. I thrive in innovation-driven start up environments, and enjoy working in research and discovery. I also take pride in storytelling, both in writing and in stakeholder communication.
+- **LLMs & NLP:** fine-tuning LLMs and embedding models, entity matching over messy text, and LLM-as-judge evaluation pipelines. At SilentEight, fine-tuning on synthetic data improved recall by 44%.
+- **Production ML:** end-to-end ML in Python, from research to deployment, with PySpark, AWS (Bedrock, SageMaker), GCP, Docker, Airflow, and MLFlow. My work has saved thousands of manual hours across Health Tech, Quick Commerce, Social Media, and Reg Tech.
+- **Explainable and observable AI:** failure taxonomies, human-in-the-loop feedback, and monitoring that tells a team what to fix next.
+- **Leading and communicating:** mentoring other engineers, leading research teams, and telling the story of technical work to stakeholders. I thrive in innovation-driven, start-up style environments.
 
- I recently attained a Masters in Sound and Music Computing, which has equipped me with knowledge of music and audio processing methods. Along this journey, I've had fun building all sorts of interesting projects - from [systems that can generate music](https://zenodo.org/records/17488858) (which have been described as "Bach on Drugs") to [creative multimodel systems](https://codingintune.substack.com/p/karaoke-chaos-part-i-multi-singer), and learnt how I could bring my technical expertise into the world of music.
+## What I'm into
 
-Based in London and always up for a good chat about the music industry, machine learning, or the occasional [philosophical debate about whether computers can truly achieve creative autonomy](https://codingintune.substack.com/p/sentient-machines-one-computers-dream). In my free time, I reminisce about my [adventures in the real world](https://sillyfolksadventures.substack.com/about), and tackle A&R problems in the music industry with the folks at [Octavate](https://www.linkedin.com/company/octavate/). If you're interested in collaborating on projects where music and tech collide, let's connect!
+- **Music and AI.** I have an MSc (Distinction) in Sound and Music Computing, and my thesis on [hierarchical music generation](https://zenodo.org/records/17488858) was published at CMMR. Projects along the way include [multi-singer separation](https://codingintune.substack.com/p/karaoke-chaos-part-i-multi-singer) and a [multimodal creative system](https://codingintune.substack.com/p/sentient-machines-one-computers-dream). I also run [The Orchestral Pit](https://x.com/OrchestralPit), a daily feed of new music information retrieval research.
+- **Music industry problems.** I lead data science at [Octavate](https://www.linkedin.com/company/octavate/), using ML to tackle A&R, such as predicting breakout artists.
+- **Building things.** Side projects, personal tech, and weekend experiments.
+- **Writing.** I write about music and ML and career lessons on [Coding in Tune](https://codingintune.substack.com/about), and about [travel adventures](https://sillyfolksadventures.substack.com/about) in the real world.
+
+## Let's chat
+
+Always up for a conversation about evaluating LLM systems, applied ML, the music industry, or the occasional [philosophical debate about whether computers can truly achieve creative autonomy](https://codingintune.substack.com/p/sentient-machines-one-computers-dream). If you're interested in collaborating, let's connect!
