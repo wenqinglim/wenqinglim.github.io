@@ -2,8 +2,7 @@
 title: About Me
 aside: true
 ---
-I'm Wen Qing, a machine learning engineer based in London with 7+ years of experience building ML systems across HR Tech, FinTech, AdTech, and food delivery. I'm currently at Personio, where I work on evaluating and monitoring an LLM-powered HR assistant used by thousands of employees.
-
+I'm Wen Qing, a machine learning engineer based in London with 7+ years of experience building ML systems across HR Tech, FinTech, AdTech, and food delivery.
 I like building solutions that are not merely technically sophisticated, but also reliable, transparent, and meaningful to the people who use them.
 
 ## What I do
