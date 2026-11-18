@@ -8,7 +8,7 @@ excerpt: "Resources from my talk on what breaks when the thing checking your AI 
 
 *Who Judges the Judge? What breaks when the thing checking your agent is also an AI* is the story of how our team built online evals for a customer-facing AI assistant, and what we learnt when it came to trusting the LLM judge itself.
 
-📑 **Slides:** coming soon, shortly after the talk.
+📑 **Slides:** [View the slides on Canva](https://canva.link/krw8rlc9oe4zcgf)
 
 ## 📖 Read more
 
